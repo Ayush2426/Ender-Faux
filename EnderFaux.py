@@ -33,6 +33,7 @@ Objects = [
     "during IPL match",
     "in Indian Military",
     "at India Gate",
+    "a plate of samosa",
     "near Ganga River",
     "across the Zebra crossing"
 ]
@@ -50,4 +51,4 @@ while True:
         break
 
 
-print("Okay Goodbye!!")
+print("Thanks for using EnderFaux, Goodbye!!")
